@@ -6,9 +6,7 @@
 <@netCommon.commonStyle />
 </head>
 <body class="hold-transition skin-blue layout-top-nav">
-
 <div class="wrapper">
-
     <header class="main-header">
         <nav class="navbar navbar-static-top">
             <div class="container">

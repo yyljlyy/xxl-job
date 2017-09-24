@@ -113,7 +113,6 @@
 
     <#assign glueTypeModeSrc = "${request.contextPath}/static/plugins/codemirror/mode/clike/clike.js" />
     <#assign glueTypeIdeMode = "text/x-java" />
-
     <#if jobInfo.glueType == "GLUE_GROOVY" >
         <#assign glueTypeModeSrc = "${request.contextPath}/static/plugins/codemirror/mode/clike/clike.js" />
         <#assign glueTypeIdeMode = "text/x-java" />
